@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cab810eb-4bf9-4c6b-999a-d6e0f742c5a6",
+  "export_job_id": "57d51aec-becc-4e2f-b129-6719067717c8",
   "id_short": 361464,
-  "published_at": "2026-04-18T07:57:08Z",
+  "published_at": "2026-04-22T07:24:15Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-milwaukee-waukesha-wi-metro-area-us-sample-361464",
   "sample_asset_name": "beamstation_361464_restaurants-us-milwaukeewaukeshawi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/361464/beamstation_361464_restaurants-us-milwaukeewaukeshawi_SAMPLE_DIST.csv",
-  "sample_records": 70,
-  "sample_sha256": "60736187867e68f068db3038ee9eb8a39e8df37678fc03e55b60cf249d4989e2",
-  "sample_size_bytes": 288279,
-  "total_records": 702
+  "sample_records": 37,
+  "sample_sha256": "a074cde6b546557a73d057c953c4a4074dd336a1fc88a470e5711ac5a4df7bda",
+  "sample_size_bytes": 161798,
+  "total_records": 374
 }
